@@ -26503,7 +26503,7 @@ var AppNav = function (_Component) {
               null,
               _react2.default.createElement(
                 'a',
-                { href: 'https://github.com/yzk114360/douban' },
+                { href: 'https://github.com/yzk114360/douban-pocket' },
                 'GitHub: MMO'
               )
             )
